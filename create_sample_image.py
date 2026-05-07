@@ -1,4 +1,4 @@
-# Creates a sample 200x200 colourful PNG to use as a cover image
+
 from PIL import Image
 import random
 
